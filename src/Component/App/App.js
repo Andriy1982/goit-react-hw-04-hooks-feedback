@@ -1,9 +1,7 @@
 import React, { useState } from 'react';
-
 import Section from '../Section';
 import FeedbackOption from '../FeedbackOption';
 import Statistics from '../Statistics';
-// import Test from '../FeedbackOption/FeedbackOption';
 
 function App() {
   const [good, setGood] = useState(0);
