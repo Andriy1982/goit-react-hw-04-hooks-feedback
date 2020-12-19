@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/goit-react-hw-04-hooks-phonebook/static/js/main.1fad1f5b.chunk.js",
-    "main.js.map": "/goit-react-hw-04-hooks-phonebook/static/js/main.1fad1f5b.chunk.js.map",
-    "runtime-main.js": "/goit-react-hw-04-hooks-phonebook/static/js/runtime-main.2e726f1a.js",
-    "runtime-main.js.map": "/goit-react-hw-04-hooks-phonebook/static/js/runtime-main.2e726f1a.js.map",
-    "static/js/2.e416ffa7.chunk.js": "/goit-react-hw-04-hooks-phonebook/static/js/2.e416ffa7.chunk.js",
-    "static/js/2.e416ffa7.chunk.js.map": "/goit-react-hw-04-hooks-phonebook/static/js/2.e416ffa7.chunk.js.map",
-    "index.html": "/goit-react-hw-04-hooks-phonebook/index.html",
-    "static/js/2.e416ffa7.chunk.js.LICENSE.txt": "/goit-react-hw-04-hooks-phonebook/static/js/2.e416ffa7.chunk.js.LICENSE.txt"
+    "main.js": "/goit-react-hw-04-hooks-feedback/static/js/main.1fad1f5b.chunk.js",
+    "main.js.map": "/goit-react-hw-04-hooks-feedback/static/js/main.1fad1f5b.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-04-hooks-feedback/static/js/runtime-main.6de9ba92.js",
+    "runtime-main.js.map": "/goit-react-hw-04-hooks-feedback/static/js/runtime-main.6de9ba92.js.map",
+    "static/js/2.d0a32562.chunk.js": "/goit-react-hw-04-hooks-feedback/static/js/2.d0a32562.chunk.js",
+    "static/js/2.d0a32562.chunk.js.map": "/goit-react-hw-04-hooks-feedback/static/js/2.d0a32562.chunk.js.map",
+    "index.html": "/goit-react-hw-04-hooks-feedback/index.html",
+    "static/js/2.d0a32562.chunk.js.LICENSE.txt": "/goit-react-hw-04-hooks-feedback/static/js/2.d0a32562.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2e726f1a.js",
-    "static/js/2.e416ffa7.chunk.js",
+    "static/js/runtime-main.6de9ba92.js",
+    "static/js/2.d0a32562.chunk.js",
     "static/js/main.1fad1f5b.chunk.js"
   ]
 }
